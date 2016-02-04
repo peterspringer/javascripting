@@ -7,4 +7,5 @@
   Check to see if your program is correct by running this command:
   javascripting verify string-length.js
 */
-
+var example = 'example string';
+console.log(example.length);
